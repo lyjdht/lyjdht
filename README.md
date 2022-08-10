@@ -8,3 +8,5 @@
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyjdht&show_icons=true&theme=tokyonight)
 
+![海豚's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyjdht&layout=compact&hide_border=true&langs_count=10)
+
