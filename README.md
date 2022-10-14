@@ -7,6 +7,8 @@
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyjdht&show_icons=true&theme=tokyonight)
 
 
+[![contributors](https://opencollective.com/lyjdht/contributors.svg?width=900&button=false)](https://github.com/komeiji-satori/Dress/graphs/contributors)
+
 
 
 
