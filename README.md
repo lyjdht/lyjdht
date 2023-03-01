@@ -6,7 +6,8 @@
 
 
 今日的卑微访客人数: 
-https://count.getloli.com/get/@lyjdht?theme=moebooru
+
+![vistors](https://count.getloli.com/get/@lyjdht?theme=moebooru)
 
 <!-- GitHub数据统计 -->
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyjdht&show_icons=true&theme=tokyonight)
