@@ -19,3 +19,14 @@
 
 <!-- GitHub数据统计 -->
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyjdht&show_icons=true&theme=tokyonight)
+
+## Star History
+
+<a href="https://star-history.com/#lyjdht&aseprite/aseprite&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lyjdht,aseprite/aseprite&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lyjdht,aseprite/aseprite&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lyjdht,aseprite/aseprite&type=Date" />
+  </picture>
+</a>
+
